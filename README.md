@@ -6,3 +6,6 @@ Web media player.
 * AutoPlay
 * AutoPause
 * Ads
+
+## Other components
+* Service Workers
